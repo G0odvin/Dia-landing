@@ -30,5 +30,5 @@ To my colleagues for advice and support
 
 #Contact
 -Feel free to contact me!
--novyk.anton@gmail.com
--https://www.linkedin.com/in/anton-novyk-50453a212/
+- novyk.anton@gmail.com
+- https://www.linkedin.com/in/anton-novyk-50453a212/
