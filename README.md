@@ -1,7 +1,7 @@
 # Advertising landing page for Dia agency
 
 # Demo
-- Demo hosted https://g0odvin.github.io/Bose-landing/
+- Demo hosted https://g0odvin.github.io/Dia-landing/
 
 # Technologies used
 1. Gulp
